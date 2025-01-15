@@ -15,8 +15,7 @@ A simple and stylish 3D calculator built using HTML, CSS, and JavaScript.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3d-calculator.git
+   git clone https://github.com/rishabhhh2005/3d-calculator.git
 
-don't forget to add your real username in place of 'yourusername' :)
 
 THANK YOU!
