@@ -1,4 +1,4 @@
-# 3D Calculator
+# 3D Calculator (Lol this was my first Sem Old project.... hahaha its cool tho).
 
 A simple and stylish 3D calculator built using HTML, CSS, and JavaScript.
 
